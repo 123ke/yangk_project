@@ -1,0 +1,2 @@
+2018-12-18 15:12:09 INFO  [main] com.test.Test.main(Test.java:10) - info----信息
+2018-12-18 15:12:09 ERROR [main] com.test.Test.main(Test.java:12) - 錯誤--信息
